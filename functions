@@ -1,0 +1,34 @@
+#round()
+
+a=354.68255
+print(round(a))
+print(round(a,2))
+print(round(a,3))
+
+#input()
+
+name=input("enter your name : ")
+age=input("enter your age : ")
+print("my name is "+name+" and i'm "+age+ " years old" )
+
+#format()
+
+name=input("enter your name : ")
+age=input("enter your age : ")
+print("my name is {} and i'm {} years old".format(name,age))
+
+#length()
+
+text="length"
+length="fathima fiza faisal"
+print(len(length))
+
+#f()
+
+name=input("enter your name:")
+age=input("enter your age:")
+print(f"i'm {name} and i'm {age} years old")
+
+#print()
+
+print("fiza faisal")
