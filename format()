@@ -1,0 +1,6 @@
+#format()
+
+name=input("enter your name : ")
+age=input("enter your age : ")
+print("my name is {} and i'm {} years old".format(name,age))
+
