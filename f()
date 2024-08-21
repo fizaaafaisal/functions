@@ -1,0 +1,6 @@
+#f()
+
+name=input("enter your name:")
+age=input("enter your age:")
+print(f"i'm {name} and i'm {age} years old")
+
