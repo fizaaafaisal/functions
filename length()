@@ -1,0 +1,6 @@
+#length()
+
+text="length"
+length="fathima fiza faisal"
+print(len(length))
+
